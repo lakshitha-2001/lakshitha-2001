@@ -1,6 +1,6 @@
 <p align="center">
 <a href="">
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Github+Profile😌;nice+to+meet+you😇;Im+a+Full-stack+web+developer🌐;Do+you+need+a+service+from+me❓;Lets+create+something+amazing!😎">
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Github+Profile;nice+to+meet+you;I+am+a+web+developer;Do+you+need+a+service+from+me;Lets+create+something+amazing!">
 </a></p>
 
 <h3 align="center"> Hi, I'm Lakshitha Madushan! I'm a full-stack web developer from Sri Lanka, skilled in both front-end and back-end development. I love building clean, efficient, and user-friendly web applications. Open to new projects and collaborations!</h3>
