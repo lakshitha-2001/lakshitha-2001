@@ -1,6 +1,6 @@
 <p align="center">
 <a href="">
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Github+Profile✨;nice+to+meet+you;I+am+a+web+developer🌐;Do+you+need+a+service+from+me?">
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Github+Profile;nice+to+meet+you;I+am+a+web+developer;Do+you+need+a+service+from+me?">
 
 </a></p>
 
