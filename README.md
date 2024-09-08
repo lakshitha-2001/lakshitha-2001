@@ -8,7 +8,7 @@
 
 <br>
 
-- 🌱 I’m currently learning <strong>Web based applications</strong>
+- 🌱 I’m currently learning the MERN stack</strong>
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/Lakshitha-2001">https://github.com/lakshitha-2001</a>
 
